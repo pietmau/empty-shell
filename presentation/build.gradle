@@ -8,7 +8,7 @@ plugins {
 
 android {
     namespace 'com.pietrantuono.shell'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.pietrantuono.shell"
